@@ -1,8 +1,8 @@
-광운대학교 컴퓨터정보공학부
-Email : hbrepark@naver.com
+<p>광운대학교 컴퓨터정보공학부 </p>
+<p>Email : hbrepark@naver.com</p>
 
 
-<img src="https://raw.githubusercontent.com/hbeooooooom/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+
 
 <!--
 **hbeooooooom/hbeooooooom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
