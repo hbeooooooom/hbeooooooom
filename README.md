@@ -2,7 +2,7 @@
 Email : hbrepark@naver.com
 
 
-<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+<img src="https://raw.githubusercontent.com/hbeooooooom/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 
 <!--
 **hbeooooooom/hbeooooooom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
