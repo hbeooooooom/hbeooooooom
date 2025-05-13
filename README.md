@@ -1,5 +1,5 @@
 <p>광운대학교 컴퓨터정보공학부 </p>
-<p>Email : hbrepark@naver.com</p>
+<p>Email : hb1034101@gmail.com</p>
 
 
 
